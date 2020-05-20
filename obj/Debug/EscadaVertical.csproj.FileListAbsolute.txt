@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\EscadaVertical\bin\Debug\EscadaVertical.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\EscadaVertical\bin\Debug\EscadaVertical.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\EscadaVertical\bin\Debug\EscadaVertical.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\EscadaVertical\obj\Debug\EscadaVertical.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\EscadaVertical\obj\Debug\EscadaVertical.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\EscadaVertical\obj\Debug\EscadaVertical.pdb
